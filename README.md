@@ -13,8 +13,6 @@
 
 ###
 
-<h3 align="left">About Me</h3>
-
 ###
 
 <p align="left">Olá, meu nome é Marcio e sou estudante de Engenharia de Software e Analise e Desenvolvimento de sistemas.</p>
