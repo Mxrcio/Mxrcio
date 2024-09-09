@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Olá, meu nome é Marcio e sou estudante de Engenharia de Software e Analise e Desenvolvimento de sistemas.</h3>
+<h3 align="center">Full Stack Developer, software engineer, systems and data quality analyst</h3>
 
 ###
 
